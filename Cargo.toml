@@ -12,7 +12,6 @@ toml = "0.8.20"
 tracing-subscriber = { version = "0.3.19", features = ["env-filter"] }
 yellowstone-vixen = { version = "0.1.0", features = ["stream"] }
 yellowstone-vixen-core = "0.1.0"
-spl-token = "7.0.0"
 tracing = "0.1.41"
 
 
